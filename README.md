@@ -49,6 +49,8 @@
 ## Framework
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=hexo&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
 
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vue&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+
 
 <!-- ![](https://img.shields.io/badge/-java-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/-Javascript-orange?style=for-the-badge)
