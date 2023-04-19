@@ -1,7 +1,5 @@
 [Code](https://github.com/MC-1One/Code) [Setting](https://github.com/MC-1One/Settings) [BaiduInpurSkin](https://github.com/MC-1One/BaiduInputSkinEditing) [Blog](https://github.com/MC-1One/MC-1One.github.io) [Profile](https://github.com/MC-1One/MC-1One)
 
-# Stay hungry. Stay foolish.
-
 <!-- 贪吃蛇研究成功-->
 ![snake animation](https://github.com/MC-1One/MC-1One/blob/main/assets/github-contribution-grid-snake.svg)
 
