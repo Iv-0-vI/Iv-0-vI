@@ -12,9 +12,3 @@
 <!-- <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Iv-0-vI&theme=github"/>
 </div> -->
-
-
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/Iv-0-vI?template=classic&config.timezone=Asia%2FShanghai"/>
-</div>
