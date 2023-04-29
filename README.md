@@ -1,7 +1,5 @@
-
 ## [My Cosmos](https://iv-0-vi.github.io/))
 
-<!-- 贪吃蛇研究成功-->
 ![snake animation](https://github.com/Iv-0-vI/Iv-0-vI/blob/main/assets/github-contribution-grid-snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iv-0-vI&layout=compact&theme=tokyonight&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,6 +12,8 @@
 <!-- <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Iv-0-vI&theme=github"/>
 </div> -->
+
+
 
 <div align="center">
     <img height="300px" src="https://metrics.lecoq.io/Iv-0-vI?template=classic&config.timezone=Asia%2FShanghai"/>
