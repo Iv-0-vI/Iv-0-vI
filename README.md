@@ -1,5 +1,5 @@
 
-## [My Cosmos]([Hello Cosmos (iv-0-vi.github.io)](https://iv-0-vi.github.io/))
+## [My Cosmos](https://iv-0-vi.github.io/))
 
 <!-- 贪吃蛇研究成功-->
 ![snake animation](https://github.com/Iv-0-vI/Iv-0-vI/blob/main/assets/github-contribution-grid-snake.svg)
