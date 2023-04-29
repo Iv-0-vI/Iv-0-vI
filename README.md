@@ -1,4 +1,4 @@
-## [My Cosmos](https://iv-0-vi.github.io/))
+## [My Cosmos](https://iv-0-vi.github.io/)
 
 ![snake animation](https://github.com/Iv-0-vI/Iv-0-vI/blob/main/assets/github-contribution-grid-snake.svg)
 
