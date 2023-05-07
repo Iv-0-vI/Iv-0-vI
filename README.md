@@ -1,3 +1,8 @@
+```python
+while True
+    发现问题()
+    解决问题()
+```
 ## [My Cosmos](https://iv-0-vi.github.io/)
 
 ![snake animation](https://github.com/Iv-0-vI/Iv-0-vI/blob/main/assets/github-contribution-grid-snake.svg)
