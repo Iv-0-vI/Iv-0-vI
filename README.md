@@ -1,5 +1,5 @@
 ```python
-while True
+while True:
     发现问题()
     解决问题()
 ```
