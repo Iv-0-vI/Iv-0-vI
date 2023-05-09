@@ -2,7 +2,8 @@
 while True:
     发现问题()
     解决问题()
-O(0)
+    if O(0):
+        return False
 ```
 ## [My Cosmos](https://iv-0-vi.github.io/)
 
