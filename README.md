@@ -5,7 +5,7 @@ while True:
     if O(0):
         return False
 ```
-## [My Cosmos](https://iv-0-vi.github.io/)
+## [My Cosmos Collapse](https://iv-0-vi.github.io/)
 
 ![snake animation](https://github.com/Iv-0-vI/Iv-0-vI/blob/main/assets/github-contribution-grid-snake.svg)
 
