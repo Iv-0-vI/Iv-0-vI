@@ -5,7 +5,8 @@ while True:
     if O(0):
         return False
 ```
-## [My Cosmos Collapse](https://iv-0-vi.github.io/)
+# 人在塔在 人亡博客亡
+## [My Cosmos Not Collapse](https://iv-0-vi.github.io/)
 ## [CopyTimeNow](https://copytimenow-rtqxraob-iv-0-vi.4everland.app/CreateTimeNow.html)
 ## [MusicPlayer](https://musicplayerweb-2.4everland.app/MusicPlayer.html)
 
