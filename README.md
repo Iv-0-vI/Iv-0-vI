@@ -7,7 +7,7 @@ while True:
         return False
 ```
 ## [My Cosmos Not Collapse](https://iv-0-vi.github.io/)
-## [CopyTimeNow](https://copytimenow-rtqxraob-iv-0-vi.4everland.app/CreateTimeNow.html)
+## [CopyTimeNow](https://copytimenow.4everland.app/CreateTimeNow.html)
 ## [MusicPlayer](https://musicplayerweb-2.4everland.app/MusicPlayer.html)
 
 ![snake animation](https://github.com/Iv-0-vI/Iv-0-vI/blob/main/assets/github-contribution-grid-snake.svg)
