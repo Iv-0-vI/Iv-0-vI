@@ -6,7 +6,6 @@ while True:
     if O(0):
         return False
 ```
-## [My Cosmos Will Never Collapse](https://iv-0-vi.github.io/)
 ## [CopyTimeNow](https://copytimenow.4everland.app/CreateTimeNow.html)
 ## [MusicPlayer](https://musicplayerweb-2.4everland.app/MusicPlayer.html)
 
