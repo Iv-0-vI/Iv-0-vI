@@ -1,4 +1,3 @@
-# 人在塔在 人亡博客亡
 ```python
 while True:
     发现问题()
