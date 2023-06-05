@@ -1,4 +1,4 @@
-## [My Cosmos](https://iv-0-vi.github.io)
+# [My Cosmos](https://iv-0-vi.github.io)
 # 还未行至绝路, 便要言弃吗?
 ```python
 while True:
