@@ -13,4 +13,4 @@ while True:
 
 <!-- [![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Iv-0-vI&theme=github-compact&hide_border=true)](https://github.com/Iv-0-vI/github-readme-activity-graph) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iv-0-vI)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iv-0-vI&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
