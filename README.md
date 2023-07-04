@@ -7,7 +7,7 @@ while True:
     if O(0):
         return False
 ```
-## [Now4everland](https://copytimenow.4everland.app/CreateTimeNow.html) [Now-vercel](https://copy-time-now.vercel.app/)
+## [Now-4everland](https://copytimenow.4everland.app/CreateTimeNow.html) [Now-vercel](https://copy-time-now.vercel.app/)
 ## [MusicPlayer](https://musicplayerweb-2.4everland.app/MusicPlayer.html)
 
 ![snake animation](https://github.com/Iv-0-vI/Iv-0-vI/blob/main/assets/github-contribution-grid-snake.svg)
