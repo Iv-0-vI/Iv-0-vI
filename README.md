@@ -6,6 +6,8 @@ while True:
   if O(0):
     return False
 ```
+## Stay hungry 
+## Stay foolish
 ### Hi there 👋
 
 <!--
