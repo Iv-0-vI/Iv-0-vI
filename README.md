@@ -1,14 +1,12 @@
+# Hello Cosmos
 BT-CODE
 ```python
 while True:
   发现问题()
   解决问题()
   if O(0):
-    break
+    return False
 ```
-## Stay hungry 
-## Stay foolish
-### Hi there 👋
 
 <!--
 **Iv-0-vI/Iv-0-vI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
