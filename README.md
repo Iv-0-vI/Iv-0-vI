@@ -7,5 +7,4 @@ while True:
   if O(0):
     return False
 ```
-## Hi，humble __lv-vl__ 
-Some voice to you. that's it. no big deal.
+## Hi，humble __lv-vl__
