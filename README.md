@@ -7,4 +7,5 @@ while True:
   解决问题()
   if O(0):
     return False
+  O(∝)
 ```
