@@ -6,6 +6,5 @@ while True:
   发现问题()
   解决问题()
   if O(0):
-    return False
-  O(∝)
+    return False or O(∝)
 ```
