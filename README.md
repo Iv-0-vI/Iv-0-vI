@@ -1,6 +1,6 @@
 # Hi，/__lv-vl__/
 # Hello，My Cosmos.
-BT-CODEandMy广义相对论
+BT-CODE
 ```python
 while True:
   发现问题()
