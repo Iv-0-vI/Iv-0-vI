@@ -9,8 +9,8 @@ while True:
   if O(0):
     return False or O(∝)
 ```
-## 我是RapStar吗
+## 我是RapStar吗 是！
 
-## 我不是耶稣 也不是救世主
+## 我不是耶稣 也不是救世主 是！
 
-## 我是刘泽楷
+## 我是刘泽楷 耶！
