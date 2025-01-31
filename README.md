@@ -3,8 +3,9 @@
 BT-CODE
 ```python
 while True:
-  发现问题()
-  解决问题()
+  发现问题(x)
+  天马行空(y)
+  解决问题(z)
   if O(0):
     return False or O(∝)
 ```
