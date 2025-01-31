@@ -9,4 +9,4 @@ while True:
   if O(0):
     return False or O(∝)
 ```
-## 我是Rap Star
+## 我是RapStar
