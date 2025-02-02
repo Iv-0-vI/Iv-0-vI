@@ -19,3 +19,11 @@ while True:
 ## 我是神舟五号！！！
 
 # 我是英雄联盟的__lv-vl__
+
+### 我的直觉
+
+```python
+while True:
+  if(尬):
+    break
+```
