@@ -1,3 +1,4 @@
+# It's my ideology
 # Hi，/__lv-vl__/
 # Hello，My Cosmos.
 ### BT-CODE
