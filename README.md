@@ -24,6 +24,6 @@ while True:
 
 ```python
 while True:
-  if(尬):
+  if 尬 :
     break
 ```
