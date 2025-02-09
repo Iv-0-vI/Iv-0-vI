@@ -1,7 +1,7 @@
 # It's my ideology
 # Hi，/__lv-vl__/
 # Hello，My Cosmos.
-### BT-CODE
+### BT-CODE思想
 ```python
 while True:
   发现问题(x)
