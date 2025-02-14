@@ -26,5 +26,5 @@ while True:
 while True:
   if 尬 :
     break
-#下一个循环
+    #下一个循环
 ```
