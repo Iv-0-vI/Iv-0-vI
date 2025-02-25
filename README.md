@@ -1,7 +1,6 @@
 # It's my ideology
 # Hi，/__lv-vl__/
 # Hello，My Cosmos.
-### Code Principle
 ```python
 while True:
   发现问题()
@@ -9,7 +8,6 @@ while True:
   if O(0):
     return False
 ```
-### BT-CODE思想
 ```python
 while True:
   发现问题(x)
