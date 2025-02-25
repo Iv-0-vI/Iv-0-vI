@@ -18,3 +18,7 @@ while True:
   if 尬 :
     break
 ```
+```python
+if O(∞):
+  return False
+```
