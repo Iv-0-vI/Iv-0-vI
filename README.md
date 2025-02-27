@@ -19,6 +19,7 @@ while True:
     break
 ```
 ```python
-if O(∞):
-  return False
+while True:
+  if O(∞):
+    return False
 ```
