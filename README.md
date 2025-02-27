@@ -2,7 +2,7 @@
 while True:
   发现问题()
   解决问题()
-  if O(0):
+  if O(0):#innervoice
     return False
 ```
 ```python
@@ -19,6 +19,6 @@ while True:
     break
 ```
 ```python
-if O(∞):
+if O(∞):#intuition
   return False
 ```
